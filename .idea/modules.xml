@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GameTebakAngka.iml" filepath="$PROJECT_DIR$/GameTebakAngka.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buku-android01_game-tebak-angka.iml" filepath="$PROJECT_DIR$/buku-android01_game-tebak-angka.iml" />
     </modules>
   </component>
 </project>
